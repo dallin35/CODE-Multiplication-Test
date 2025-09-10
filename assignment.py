@@ -2,7 +2,8 @@ import random
 
 
 def main():
-    math_operations = ("+", "-", "*")
+    # Randomly choose an operation from this tuple for each question
+    math_operations = ("add", "subtract", "multiply")
 
     # Your code begins here
 

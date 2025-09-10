@@ -13,7 +13,7 @@ For multiplication questions, select 2 random numbers **between 1 and 12**
 ## Prompts and Print Output
 * Welcome the user and tell them how many question they will be asked:
   * `"Welcome to the Random Math Quiz!"`
-  * `"You will be asked X questions\n"` replace X with the randomly selected number of questions
+  * `"You will be asked X questions"` replace X with the randomly selected number of questions
 * Example question output:
   * `"\nWhat is 67 - 13?"`
   * `"\nWhat is 10 * 5?"`

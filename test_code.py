@@ -17,7 +17,7 @@ def test_all_correct():
     output = run_test(inputs, seed=32)
     assert output == [
         "Welcome to the Random Math Quiz!",
-        "You will be asked 1 questions",
+        "You will be asked 1 question",
         "\nWhat is 19 + 39? ",
         "Correct!",
         "\nYou got 1/1 correct."
