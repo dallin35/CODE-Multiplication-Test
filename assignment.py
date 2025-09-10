@@ -1,8 +1,10 @@
 import random
 
+
 def main():
-    # TODO: Implement your solution here
-    pass  # remove this once implemented
+    math_operations = ("+", "-", "*")
+
+    # Your code begins here
 
 
 if __name__ == "__main__":
