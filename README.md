@@ -31,13 +31,13 @@ For multiplication questions, select 2 random numbers **between 1 and 12**
 "Welcome to the Random Math Quiz!"
 "You will be asked 3 questions"
 
-"\nWhat is 86 + 22? 108
+"What is 86 + 22? 108
 Correct!
 
 What is 8 * 6? 48
 Correct!
 
-What is 92 - 20? 72
-Correct!
+What is 92 - 20? 62
+Incorrect. The answer was 72
 
 You got 3/3 correct.
