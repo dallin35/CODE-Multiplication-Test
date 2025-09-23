@@ -52,9 +52,9 @@ def test_all_incorrect():
         "Incorrect. The correct answer was 12",
         "\nWhat is 25 + 22? ",
         "Incorrect. The correct answer was 47",
-        "\nWhat is 2 * 3? ",
-        "Incorrect. The correct answer was 6",
-        "\nWhat is 5 * 1? ",
-        "Incorrect. The correct answer was 5",
+        "\nWhat is 11 * 2? ",
+        "Incorrect. The correct answer was 22",
+        "\nWhat is 3 * 12? ",
+        "Incorrect. The correct answer was 36",
         "\nYou got 0/4 correct."
     ]
